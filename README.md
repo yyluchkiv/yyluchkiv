@@ -25,4 +25,4 @@ I am Yurii Luchkiv
 
 ### 🌐 Website
 
-https://yyluchkiv.com/
+https://yyluchkiv.com
