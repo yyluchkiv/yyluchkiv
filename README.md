@@ -7,12 +7,7 @@ I am Yurii Luchkiv
 - 🏁 I plan to continue to be a software engineer
 
 ### 🛠️ Tech
-![Java](https://img.shields.io/badge/-Java-F7931A?style=for-the-badge&logo=openjdk&color=272822)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-5FBA7D?style=for-the-badge&logo=spring&color=272822)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-0D9CD7?style=for-the-badge&logo=docker&color=272822)&nbsp;
-![Postgres](https://img.shields.io/badge/-Postgres-002F6C?style=for-the-badge&logo=postgresql&color=272822)&nbsp;
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&color=272822)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-42B883?style=for-the-badge&logo=vuedotjs&color=272822)&nbsp;
+Java, Spring, Docker, Postgres, React/Vue
 
 ### 📫 Contacts
 
